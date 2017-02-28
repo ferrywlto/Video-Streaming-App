@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.5">
+<id>com.grandtech.test</id>
+	<filename>test</filename>
+	<name>test</name>
+	<version>v1</version>
+	<initialWindow>
+		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
+		<width>320</width>
+		<height>480</height>
+		<visible>true</visible>
+		<renderMode>gpu</renderMode>
+		<fullScreen>true</fullScreen>
+		<aspectRatio>portrait</aspectRatio>
+		<autoOrients>true</autoOrients>		
+	</initialWindow>
+	<supportedProfiles>mobileDevice</supportedProfiles>
+</application>
